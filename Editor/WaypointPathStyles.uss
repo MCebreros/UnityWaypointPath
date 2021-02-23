@@ -1,0 +1,15 @@
+.point {
+    flex-direction: row;
+}
+
+.point:hover {
+    background-color: #919191;
+}
+
+.point:focus {
+    background-color: #6686ff;
+}
+
+.point{
+    color: #FF0;
+}
